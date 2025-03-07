@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/hello/static/css/main.4a8fe74f.css",
-    "main.js": "/hello/static/js/main.530e6b84.js",
+    "main.css": "/hello/static/css/main.4df7fa6e.css",
+    "main.js": "/hello/static/js/main.e53d0e13.js",
     "static/js/206.3d283d94.chunk.js": "/hello/static/js/206.3d283d94.chunk.js",
     "static/media/cv.pdf": "/hello/static/media/cv.d063c94f5ea7af65078f.pdf",
     "static/media/GeistVF.woff2": "/hello/static/media/GeistVF.065ee491488865d52b60.woff2",
@@ -9,7 +9,7 @@
     "static/media/linkedinsvg.svg": "/hello/static/media/linkedinsvg.044d5ac6e57241aff921a7389f6ae0c4.svg"
   },
   "entrypoints": [
-    "static/css/main.4a8fe74f.css",
-    "static/js/main.530e6b84.js"
+    "static/css/main.4df7fa6e.css",
+    "static/js/main.e53d0e13.js"
   ]
 }
